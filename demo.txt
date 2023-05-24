@@ -1,2 +1,6 @@
 This is my first commit
+
 This is the second commit by me 
+
+This is commit made by another developer
+
