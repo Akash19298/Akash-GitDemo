@@ -6,3 +6,4 @@ This is commit made by another developer
 
 hello rawat akash
 
+I have made this change from newBranch i.e newbranch1 and I am going to merge it with main branch
